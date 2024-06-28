@@ -1,0 +1,36 @@
+
+body {
+  background: #c8c8c8;
+  padding: 0;
+}
+
+.page .container {
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  background: #ffffff;
+}
+
+header.main ul {
+  display: flex;
+  justify-content: center;
+}
+header.main li {
+  list-style-type: none;
+}
+
+header.main li a {
+  padding: 0;
+  display: block;
+}
+.over .container2{
+  width: 100%;
+  padding: 0;
+  background: #ffffff;
+}
+.arjan{
+  width: 40px;
+}
+.footer{
+  background: black;
+}
